@@ -25,8 +25,8 @@
     </a>
 </p>
 
-# Live Website
-You can check out DoIt with [this link.](https://newslate.netlify.app/login)
+# Live App
+You can check out DoIt with [this link.](https://sweettasks-734d2.firebaseapp.com/)
 
 # Getting Started:
 >  _**Dont forget to check enviroment variables, in .env file, you can get your variables creating a new Firebase project [here](https://console.firebase.google.com/)**_
